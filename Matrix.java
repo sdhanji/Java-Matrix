@@ -22,9 +22,9 @@
  *
  * 2) Fill in the following fields:
  *
- * NAME: Shiv Dhanji
- * UNIVERSITY ID: 2109288
- * DEPARTMENT: Mathematics
+ * NAME:
+ * UNIVERSITY ID:
+ * DEPARTMENT:
  */
 
 public abstract class Matrix {
